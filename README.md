@@ -26,4 +26,4 @@
 # Credits
 - All To Hiroku
 
-Bogie had spelling OCD 
+Bogie had grammer OCD 
