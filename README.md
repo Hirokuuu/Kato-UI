@@ -25,3 +25,5 @@
 
 # Credits
 - All To Hiroku
+
+Bogie had spelling OCD 
