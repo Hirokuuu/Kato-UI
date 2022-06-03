@@ -12,9 +12,9 @@
   - Home/Annocuemnt
 - Custom Checkbox Styles 
 - Custom Button Styles 
-- Idk I am just trying to make this look proffesional 
+- Idk I am just trying to make this look professional 
 
-## Socails
+## Socail
 - [Katos Discord](https://discord.gg/3sQ8s6fkaA)
 
 # Authors
